@@ -8,7 +8,7 @@
 2. web.js这个文件放入js文件夹，它的作用是让酷9app能够播放以http//A/ku9/js/web.js?id=打头的网页直播源。
 3. epg_data.json这个文件放入logo文件夹，它的作用是让酷9app匹配电视台的logo，也可以用文本编辑的方式按需添加你喜欢的logo。
 4. 订阅地址：
-- https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
+- https://raw.githubusercontent.com/ifox6677/Ku9-IPTV-source/main/webview.txt
 - https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/webview.txt
 
 - 国内请自行添加代理（ps:搜索github代理就可以找到很多代理）
